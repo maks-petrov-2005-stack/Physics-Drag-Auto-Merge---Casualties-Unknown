@@ -63,4 +63,6 @@ Casualties_Unknown\BepInEx\plugins\
 Launch the game!
 
 </details>
-<div align="center"> <i>Made with ❤️ by Hati</i> </div> ```
+<div align="center"> <i>Made with ❤️ by Hati</i> </div>
+<div align="center">  </div>
+
