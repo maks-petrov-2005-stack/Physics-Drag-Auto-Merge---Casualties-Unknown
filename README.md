@@ -19,7 +19,7 @@
 <summary><b>🇷🇺 РУССКИЙ (Нажмите, чтобы развернуть)</b></summary>
 <br>
 
-Этот мод добавляет в **Casualties: Unknown** физическое перетаскивание предметов. Теперь, чтобы поднять и переместить вещь, необязательно открывать инвентарь и тянуть её через интерфейс — вы можете таскать предметы прямо в игровом мире!
+  Этот мод добавляет в **Casualties: Unknown** физическое перетаскивание предметов. Теперь, чтобы поднять и переместить вещь, необязательно открывать инвентарь и тянуть её через интерфейс — вы можете таскать предметы прямо в игровом мире!
 
 ### ✨ Что добавляет
 *   **🖱️ Захват ПКМ:** Зажмите правую кнопку мыши на любом предмете, и он начнет плавно притягиваться к вашему курсору. Отпустите кнопку — и он упадет.
@@ -31,16 +31,17 @@
 *   **Запрет на самоподъем:** Вы не можете схватить себя за руку или ногу.
 
 ### 🛠️ Установка
+```text
 1. Убедитесь, что у вас установлен **BepInEx 5** и библиотека **ScavLib**.
 2. Скачайте файл `Physics Drag & Auto-Merge.dll`.
 3. Поместите его в папку: 
-   ```text
    Casualties_Unknown\BepInEx\plugins\
    Запускайте игру!
+   ```
 
 </details>
 <details> <summary><b>En ENGLISH (Click to expand)</b></summary> <br>
-This mod adds physics-based item dragging to Casualties: Unknown. Now, to pick up and move an item, you don't have to open the inventory and drag it through the interface — you can drag objects directly in the game world!
+   This mod adds physics-based item dragging to Casualties: Unknown. Now, to pick up and move an item, you don't have to open the inventory and drag it through the interface — you can drag objects directly in the game world!
 
 ✨ Features
 🖱️ Right-Click Grab: Hold the Right Mouse Button on any item, and it will smoothly pull towards your cursor. Release the button, and it will drop.
@@ -55,16 +56,13 @@ Realistic Weight: Heavy items lag behind, light items fly fast. A built-in speed
 No Self-Lifting: You cannot grab yourself by the arm or leg.
 
 🛠️ Installation
+```text
 Make sure you have BepInEx 5 and the ScavLib library installed.
-
 Download the Physics Drag & Auto-Merge.dll file.
-
 Place it in the folder:
-
-text
 Casualties_Unknown\BepInEx\plugins\
 Launch the game!
-
+```
 </details>
 <div align="center"> <i>Made with ❤️ by Hati</i> </div>
 <div align="center">  </div>
