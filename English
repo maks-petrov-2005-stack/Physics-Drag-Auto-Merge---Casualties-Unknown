@@ -1,0 +1,35 @@
+<div align="center">
+
+# 🧲 Physics Drag & Auto-Merge
+
+**Physics-based dragging & auto-merge for Casualties: Unknown**
+
+[![Version](https://img.shields.io/badge/Version-1.6.0_Stable-brightgreen.svg?style=for-the-badge)](https://github.com/)
+[![BepInEx](https://img.shields.io/badge/Requires-BepInEx_5.x-blue.svg?style=for-the-badge)](https://github.com/BepInEx/BepInEx)
+[![ScavLib](https://img.shields.io/badge/Requires-ScavLib-orange.svg?style=for-the-badge)](https://github.com/)
+
+</div>
+
+---
+
+<details open>
+<summary><b>🇬🇧 ENGLISH (Click to collapse)</b></summary>
+<br>
+
+This mod adds physics-based item dragging to **Casualties: Unknown**. Now, to pick up and move an item, you don't have to open the inventory and drag it through the interface — you can drag objects directly in the game world!
+
+### ✨ Features
+*   **🖱️ Right-Click Grab:** Hold the Right Mouse Button on any item, and it will smoothly pull towards your cursor. Release the button, and it will drop.
+*   **🔄 Auto-Merge Resources:** Forget manual dragging in the inventory! Now just throw one piece of resource onto another. If they are the same items, they will automatically combine their percentage (e.g., 20% + 80% = 100%).
+
+### ⚖️ Balance & Physics
+*   **Realistic Weight:** Heavy items lag behind, light items fly fast. A built-in speed limit prevents items from flying through walls (tunneling).
+*   **📏 Distance Limit:** If the item flies further than **12** game tiles away from you, it will automatically drop.
+*   **No Self-Lifting:** You cannot grab yourself by the arm or leg.
+
+### 🛠️ Installation
+1. Make sure you have **BepInEx 5** and the **ScavLib** library installed.
+2. Download the `MyDragMod.dll` file.
+3. Place it in the folder:
+   ```text
+   Casualties_Unknown\BepInEx\plugins\
