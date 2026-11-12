@@ -1,6 +1,9 @@
 <div align="center">
 
 # 🧲 Physics Drag & Auto-Merge
+<div align="center">
+  <img src="https://github.com/maks-petrov-2005-stack/Physics-Drag-Auto-Merge---Casualties-Unknown/blob/main/banner.jpg" alt="Banner" width="100%">
+</div>
 
 **Физическое перетаскивание предметов и авто-слияние для Casualties: Unknown**
 
